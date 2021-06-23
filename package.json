@@ -1,0 +1,12 @@
+{
+  "name": "jobyandsusan50th",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "github-jestrjk:jestrjk/jobyandsusan50th",
+  "author": "jake.jester@gmail.com <jake.jester@nih.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  }
+}
